@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:untitled1/2.dart';
-import 'package:untitled1/theme.dart';
+import 'package:Shaumgram/2.dart';
+import 'package:Shaumgram/theme.dart';
 
 class HalamanSatu extends StatelessWidget {
   @override

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:untitled1/register.dart';
-import 'package:untitled1/theme.dart';
-import 'package:untitled1/bottom_navbar_item.dart';
-import 'package:untitled1/login.dart';
+import 'package:Shaumgram/register.dart';
+import 'package:Shaumgram/theme.dart';
+import 'package:Shaumgram/bottom_navbar_item.dart';
+import 'package:Shaumgram/login.dart';
 
 
 class Home extends StatefulWidget {

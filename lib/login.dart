@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:untitled1/register.dart';
-import 'package:untitled1/theme.dart';
-import 'package:untitled1/home.dart';
+import 'package:Shaumgram/register.dart';
+import 'package:Shaumgram/theme.dart';
+import 'package:Shaumgram/home.dart';
 import 'package:path/path.dart';
 
 class LoginPage extends StatelessWidget {
